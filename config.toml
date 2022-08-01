@@ -2,7 +2,7 @@ baseurl = "/"
 metaDataFormat = "yaml"
 title = "StartFoster.com"
 theme = "blist"
-
+googleAnalytics = 'G-YHTGRNCE5T'
 DefaultContentLanguage = "en"
 [languages]
   [languages.en]
