@@ -1,6 +1,6 @@
 baseurl = "/"
 metaDataFormat = "yaml"
-title = "Blist Multilingual Theme"
+title = "StartFoster.com"
 theme = "blist"
 
 DefaultContentLanguage = "en"
