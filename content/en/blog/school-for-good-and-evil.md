@@ -1,9 +1,9 @@
 ---
-author: Hugo Authors
+author: "Star Foster "
 title: School for Good and Evil
 description: "Description of School for Good and Evil by Soman Chainani "
 date: 2022-08-01
-thumbnail: /schoolforgoodandevil.webp
+thumbnail: /school-for-good-and-evil-.jpg
 tags:
   - markdown
   - css
