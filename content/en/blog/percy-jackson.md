@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "Percy Jackson "
 description: "Description of Percy Jackson and the Olympians by Rick Riordan "
 date: 2022-08-02T18:00:44.113Z
-thumbnail: /static/percy-jackson-2.webp
+thumbnail: /percy-jackson-2.webp
 ---
 
 
