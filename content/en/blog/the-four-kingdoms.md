@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "The Four Kingdoms "
 description: "Description of The Four Kingdoms by K.M. Shea "
 date: 2022-08-02T18:31:21.321Z
-thumbnail: /static/image.png
+thumbnail: /image.png
 ---
 
 
