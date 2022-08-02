@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "Beyond the Four Kingdoms "
 description: "Description of The Four Kingdoms by K.M. Shea "
 date: 2022-08-02T18:36:46.837Z
-thumbnail: /static/beyond-the-4-kingdoms.jpg
+thumbnail: /beyond-the-4-kingdoms.jpg
 ---
 (continues the Four kingdoms series with some of the same characters)
 
