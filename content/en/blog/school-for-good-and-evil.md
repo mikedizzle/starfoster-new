@@ -1,10 +1,13 @@
 ---
-author: "Hugo Authors"
-title: "School for Good and Evil"
-description: "Review of School for Good and Evil by Soman Chainani"
-tags: ["markdown", "css", "html"]
+author: Hugo Authors
+title: School for Good and Evil
+description: "Description of School for Good and Evil by Soman Chainani "
 date: 2022-08-01
 thumbnail: /schoolforgoodandevil.webp
+tags:
+  - markdown
+  - css
+  - html
 ---
 
 ## School for Good and Evil
