@@ -1,7 +1,7 @@
 ---
 author: "Star Foster "
 title: "Harry Potter "
-description: "Description of Harry Potter by J.K. Rolwing "
+description: "Description of Harry Potter by J.K. Rowling "
 date: 2022-08-02T18:59:46.388Z
 thumbnail: /harry-potter.webp
 ---
