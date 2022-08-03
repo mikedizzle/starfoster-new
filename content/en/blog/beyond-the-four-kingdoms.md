@@ -14,3 +14,5 @@ Lily spends her nights competing in a magical underground realm and her days unr
 But Lily and her twin have a secret advantage. And Lily grows increasingly determined to use their magical bond to defeat the tournament, save the princesses, and free Marin. Except she might have to sacrifice true love to do it.
 
 In this reimagining of the classic fairy tale, The Twelve Dancing Princesses, there's a lot more at stake than worn out dancing slippers.
+
+[A Dance of Silver and Shadow: A Retelling of the Twelve Dancing Princesses](https://www.goodreads.com/book/show/36186930-a-dance-of-silver-and-shadow) (link to the book)
