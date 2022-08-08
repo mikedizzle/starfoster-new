@@ -14,4 +14,6 @@ Justin was born to be a king, not a beast. Between the inhuman coldness he learn
 \
 With time running out, not just for the castle’s inhabitants, but for the kingdom of Albury, they will need more than the help of a dragon to break the curse and prevent disaster before it’s too late. But for all Felicity’s warmth and laughter, even she could never look at Justin and like what she sees.
 
+Could she?
+
 [Kingdom of Beauty: A Retelling of Beauty and the Beast](https://www.goodreads.com/book/show/57427543-kingdom-of-beauty) (link to book)
