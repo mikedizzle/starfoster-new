@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.starfoster.com/"
 metaDataFormat = "yaml"
 title = "StartFoster.com"
 theme = "blist"
