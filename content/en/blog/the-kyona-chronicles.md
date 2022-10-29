@@ -5,6 +5,8 @@ description: Description of The Kyona Chronicles by Deborah Grace Whiye
 date: 2022-10-24T16:18:35.936Z
 thumbnail: /hotc.png
 ---
+H﻿eir of the Curse:
+
 **Kyona’s lost heir is found—but his birthright might be his greatest curse**\
 \
 Calinnae’s world is shattered when a discovery about his best friend Jonan brings the king’s soldiers down on both families. Barely avoiding their pursuers, the two friends escape with nothing but each other, and the stories of the past they grew up with. Stories that might hold answers, if they turn out to be more than just legends.\
