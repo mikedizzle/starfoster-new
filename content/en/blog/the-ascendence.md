@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "The Ascendence "
 description: "Description of The Ascendence by Jennifer A. Nelson "
 date: 2022-08-02T22:34:32.897Z
-thumbnail: /the-accendence.jpg
+thumbnail: /the-accendence-updated-2-.png
 ---
 The False Prince:
 
