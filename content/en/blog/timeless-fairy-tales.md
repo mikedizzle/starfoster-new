@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "Timeless Fairy Tales "
 description: "Description of Timeless Fairy Tales by K.M. Shea "
 date: 2022-08-03T16:05:22.901Z
-thumbnail: /timeless-tales-.png
+thumbnail: /timeless-fairy-tales-updated-.png
 ---
 Beauty and the Beast:
 
@@ -16,3 +16,5 @@ Unfortunately, the pair can’t seem to avoid each other thanks to the meddling 
 When Elle risks everything to save Severin, will he be able to forgive her for her lies?
 
 [Beauty and the Beast](https://www.goodreads.com/book/show/34115450-beauty-and-the-beast) (link to the book)
+
+N﻿ote: The Princess and the Pea is a prequal novella that is set in the same world.
