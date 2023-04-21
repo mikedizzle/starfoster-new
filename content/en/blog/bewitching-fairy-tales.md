@@ -17,6 +17,6 @@ Sandor’s worlds collided when Aurelia was brought before King Eadric. Is he tr
 \
 Nothing makes sense anymore, but Sandor’s determined to figure it out and save Aurelia from the king. The more he learns, the more he wonders, is the king the real threat, or is there something more dangerous lurking in the shadows?
 
-[Search results for "bewit](https://www.goodreads.com/search?q=bewitching+fairy+tales&ref=nav_sb_noss_l_22)[ching fairy tales" (showing 1-14 of 14 books) (goodreads.com)](https://www.goodreads.com/search?q=bewitching+fairy+tales&ref=nav_sb_noss_l_22)(link to book)
+[Search results for "bewitching fairy tales celeste baxendell" (showing 1-10 of 10 books) (goodreads.com)](https://www.goodreads.com/search?utf8=%E2%9C%93&q=bewitching+fairy+tales+celeste+baxendell&search_type=books)(link to book)
 
 Note Of Chivalry and Revenge is a prequel set in the same world and Shoes of Red is a novella that should be read before Songs of Stone. Thorns of Gold is supposed to be the last book in the series and comes out May 24 2023.
