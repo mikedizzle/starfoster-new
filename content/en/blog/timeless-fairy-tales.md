@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "Timeless Fairy Tales "
 description: "Description of Timeless Fairy Tales by K.M. Shea "
 date: 2022-08-03T16:05:22.901Z
-thumbnail: /timeless-fairy-tales-.png
+thumbnail: /star-foster-2-.png
 ---
 Beauty and the Beast:
 
