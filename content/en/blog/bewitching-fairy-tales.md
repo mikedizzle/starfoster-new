@@ -3,7 +3,7 @@ author: "Star Foster "
 title: Bewitching Fairy Tales
 description: "Description of Bewitching Fairy Tales by Celeste Baxendell "
 date: 2023-04-21T00:46:13.373Z
-thumbnail: /bewhiching-fairy-tales-updated.png
+thumbnail: /bet.png
 ---
 Stalks of Gold:
 
@@ -19,4 +19,4 @@ Nothing makes sense anymore, but Sandor’s determined to figure it out and save
 
 [Search results for "bewitching fairy tales celeste baxendell" (showing 1-10 of 10 books) (goodreads.com)](https://www.goodreads.com/search?utf8=%E2%9C%93&q=bewitching+fairy+tales+celeste+baxendell&search_type=books)(link to book)
 
-Note Of Chivalry and Revenge is a prequel set in the same world and Shoes of Red is a novella that should be read before Songs of Stone. Thorns of Gold is supposed to be the last book in the series and comes out May 24 2023.
+Note Of Chivalry and Revenge is a prequel set in the same world and Shoes of Red is a novella that takes place before all of the books but should be read before Songs of Stone.
