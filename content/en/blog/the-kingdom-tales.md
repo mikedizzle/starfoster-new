@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "The Kingdom Tales "
 description: Description of The Kingdom Tales by Deborah Grace White
 date: 2022-08-05T03:27:56.191Z
-thumbnail: /the-kingdom-tales.png
+thumbnail: /kingdoms-tales-.png
 ---
 Kingdom of Beauty: 
 
