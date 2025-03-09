@@ -5,9 +5,9 @@ description: Description of The Emerald Realm by Abigail Manning
 date: 2025-03-09T02:20:09.546Z
 thumbnail: /emerald-relm.png
 ---
-Poisoned Heart:
-
 **N﻿ote this book series takes place before the Ruby Realm some of the characters cross over but you can read Ruby Realm first if you want.**
+
+Poisoned Heart:
 
 Princess Arabella is truly the fairest in all the land, and she knows it. With her pretty face, elaborate ball gowns, and glorious castle, she truly lives the perfect royal life. That is, until she is forced out of her home by a mysterious assassin.\
 With only the clothes on her back and the tiara on her head, Arabella flees from her castle in the dead of winter. As a last resort for shelter, Arabella takes up work in a laundry mill with seven other women. The once adored princess is now subjected to sleeping in piles of dirty laundry, but at least she is hidden. Well, she hopes so…\
