@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: Bewitching Fairy Tales
+title: Bewitching Fairy Tales (KU)
 description: "Description of Bewitching Fairy Tales by Celeste Baxendell "
 date: 2023-04-21T00:46:13.373Z
 thumbnail: /bet.png
