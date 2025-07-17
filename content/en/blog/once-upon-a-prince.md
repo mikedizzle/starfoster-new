@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Once Upon A Prince
+title: Once Upon A Prince (KU)
 description: Description of Once Upon A Prince a multi-author series
 date: 2025-03-09T20:29:47.991Z
 thumbnail: /once-upon-a-prince.png
