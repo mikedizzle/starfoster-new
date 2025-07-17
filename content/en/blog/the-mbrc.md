@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The MBRC
+title: The MBRC (KU)
 description: Description of The MBRC by K.M. Shea
 date: 2022-08-11T16:49:29.275Z
 thumbnail: /the-mbrc.jpg
