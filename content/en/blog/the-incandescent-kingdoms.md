@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Incandescent Kingdoms
+title: The Incandescent Kingdoms (KU)
 description: Description of The Incandescent Kingdoms by Leialoha Humpherys
 date: 2025-03-12T16:22:00.413Z
 thumbnail: /the-icandecent-kingdoms-.png
