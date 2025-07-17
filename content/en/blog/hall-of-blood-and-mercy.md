@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: "Hall of Blood and Mercy "
+title: Hall of Blood and Mercy (KU)
 description: "Description of Hall of Blood and Mercy by K.M Shea "
 date: 2022-08-02T19:33:31.510Z
 thumbnail: /hall-f-blood-and-mercy-.png
