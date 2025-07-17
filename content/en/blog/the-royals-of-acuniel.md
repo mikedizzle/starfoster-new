@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Royals of Acuniel
+title: The Royals of Acuniel (KU)
 description: Description of The Royals of Acuniel by Ashton E. Dorow
 date: 2025-03-09T21:18:09.055Z
 thumbnail: /book-series.png
