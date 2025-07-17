@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Dragon of 23rd Street
+title: The Dragon of 23rd Street (KU)
 description: Description of The Dragon of 23rd Street by Haley Ryan
 date: 2022-08-23T15:44:05.339Z
 thumbnail: /star-foster.png
