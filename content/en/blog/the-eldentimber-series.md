@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: The Eldentimber Series
+title: The Eldentimber Series (KU)
 description: Description of The Eldentimber Series by Shari L. Tapscott
 date: 2025-03-11T20:22:46.980Z
 thumbnail: /eldentimber-cornicles-.png
