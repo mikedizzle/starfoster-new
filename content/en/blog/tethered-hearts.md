@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Tethered Hearts
+title: Tethered Hearts (KU)
 description: Description of Tethered Hearts a multi-author series
 date: 2025-04-25T16:00:55.782Z
 thumbnail: /teathered-hearts.png
