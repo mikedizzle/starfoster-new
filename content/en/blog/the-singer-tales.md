@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: The Singer Tales
+title: The Singer Tales (KU)
 description: "Description of The Singer Tales by Debrorah Grace White "
 date: 2024-03-11T19:36:19.594Z
 thumbnail: /singer-tales-.png
