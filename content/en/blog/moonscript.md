@@ -1,9 +1,9 @@
 ---
 author: Star Foster
-title: "Moonscript "
-description: "Description of Moonscript by H.S.J. Williams "
+title: Kings of Aselvia (KU)
+description: "Description of Kings of Aselvia by H.S.J. Williams "
 date: 2022-08-25T15:46:53.856Z
-thumbnail: /moon.jpg
+thumbnail: /screenshot_16-7-2025_214458_www.canva.com.jpeg
 ---
 
 
