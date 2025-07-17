@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Christmas Chronicles
+title: The Christmas Chronicles (KU)
 description: Description of The Christmas Chronicles a multi-author series
 date: 2025-03-09T20:54:18.202Z
 thumbnail: /the-christmas-chronicles-.png
