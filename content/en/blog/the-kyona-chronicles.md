@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Kyona Chronicles
+title: The Kyona Chronicles (KU)
 description: Description of The Kyona Chronicles by Deborah Grace Whiye
 date: 2022-10-24T16:18:35.936Z
 thumbnail: /hotc.png
