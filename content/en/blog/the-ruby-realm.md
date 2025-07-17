@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: "The Ruby Realm "
+title: The Ruby Realm (KU)
 description: Description of The Ruby Realm by Abigail Manning
 date: 2025-03-09T02:38:20.066Z
 thumbnail: /rub-realm-.png
