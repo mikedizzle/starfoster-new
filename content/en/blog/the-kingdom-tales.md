@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: "The Kingdom Tales "
+title: The Kingdom Tales (KU)
 description: Description of The Kingdom Tales by Deborah Grace White
 date: 2022-08-05T03:27:56.191Z
 thumbnail: /kingdoms-tales-.png
