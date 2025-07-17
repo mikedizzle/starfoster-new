@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: "Elves of Lessa "
+title: Elves of Lessa (KU)
 description: "Description of Elves of Lessa by K.M Shea "
 date: 2022-08-02T16:02:36.691Z
 thumbnail: /image-1-.png
