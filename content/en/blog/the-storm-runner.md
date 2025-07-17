@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Storm Runner
+title: The Storm Runner (KU)
 description: Description of The Storm Runner by Rick Riordan
 date: 2022-09-01T20:32:04.024Z
 thumbnail: /storm-runner.jpg
