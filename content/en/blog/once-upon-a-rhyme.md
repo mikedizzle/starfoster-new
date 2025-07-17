@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Once Upon A Rhyme
+title: Once Upon A Rhyme (KU)
 description: "Description of Once Upon A Rhyme by Abigail Manning "
 date: 2025-05-14T15:59:08.816Z
 thumbnail: /once-upon-a-rhyme.png
