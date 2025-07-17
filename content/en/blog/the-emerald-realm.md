@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: "The Emerald Realm "
+title: The Emerald Realm (KU)
 description: Description of The Emerald Realm by Abigail Manning
 date: 2025-03-09T02:20:09.546Z
 thumbnail: /emerald-relm.png
