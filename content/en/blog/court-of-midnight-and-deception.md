@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: "Court of Midnight and Deception "
+title: Court of Midnight and Deception (KU)
 description: Description of Court of Midnight and Deception by K.M. Shea
 date: 2022-08-02T19:36:20.996Z
 thumbnail: /court-of-midnigh-and-deception-.png
