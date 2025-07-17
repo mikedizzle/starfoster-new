@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: "Pack of Dawn and Destiny "
+title: Pack of Dawn and Destiny (KU)
 description: "Description of Pack of Dawn and Destiny by K.M. Shea "
 date: 2022-08-02T19:39:04.104Z
 thumbnail: /pack-of-dawn-and-deseny-.png
