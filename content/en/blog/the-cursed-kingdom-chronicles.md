@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Cursed Kingdom Chronicles
+title: The Cursed Kingdom Chronicles (KU)
 description: Description of The Cursed Kingdom Chronicles by Kayla Eshbaugh
 date: 2025-04-11T20:23:15.902Z
 thumbnail: /cursed-kingdom-chronicles-.png
