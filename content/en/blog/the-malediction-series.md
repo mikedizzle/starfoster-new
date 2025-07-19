@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: The Malediction Series
+title: The Malediction Series (KU)
 description: Desription of The Malediction Series by Danielle L. Jensen
 date: 2025-07-19T00:06:37.155Z
 thumbnail: /screenshot_18-7-2025_17631_www.canva.com.jpeg
