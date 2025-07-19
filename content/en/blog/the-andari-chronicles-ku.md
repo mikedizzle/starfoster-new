@@ -15,6 +15,4 @@ One night, one beautiful gown, one dance… and one message to be delivered to a
 
 Especially when she can slip away into the night after the dance, leaving no clue as to her identity. But before she can escape the ball, Trystan makes a shocking discovery that leaves all her hopes in ruins. She will be forced to confront two very different princes—and choose whether to betray her kingdom… or her heart. If she’s lucky, maybe she’ll even survive to tell about it later.
 
-
-
-(﻿link to book) https://www.amazon.com/dp/B018A5S6F2/ref=mes-dp?
+(﻿link to book) [Traitor's Masque](https://www.amazon.com/dp/B018A5S6F2/ref=mes-dp)
