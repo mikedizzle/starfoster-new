@@ -7,8 +7,6 @@ thumbnail: /screenshot_18-7-2025_17631_www.canva.com.jpeg
 ---
 **S﻿tolen Songbird:**
 
-
-
 A girl destined for the stage. A prince cursed to darkness. A bond that will unleash magic caged for centuries.
 
 Centuries ago, the Isle of Light was ruled by cruel creatures with dangerous magic until a witch bound them to their underground city. But a prophesy has spoken of a union with a human girl that has the power to set them free.
@@ -21,6 +19,4 @@ Torn between returning to her human life and becoming the princess Trollus needs
 
 *Stolen Songbird is the first novel in a complete YA fantasy romance series that is perfect for readers looking to be lost in a magical world full of swoon-worthy and slow-burn romance!*
 
-
-
-(l﻿ink to book) https://www.amazon.com/gp/product/B08BZXNMJB?ref_=dbs_m_mng_rwt_calw
+(l﻿ink to book) [The Stolen Songbird](https://www.amazon.com/gp/product/B08BZXNMJB?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
