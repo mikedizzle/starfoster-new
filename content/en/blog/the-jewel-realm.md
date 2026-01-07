@@ -18,9 +18,7 @@ A tale of elemental magic, dragon bonds, and the cost of being truly seen.\
 \
 This is the first book in the Jewel Realm
 
-**N﻿ote this series is not yet completed though the books are all standalone and have their own happy endings. The first three books are out.** 
-
-
+**N﻿ote this series is not yet completed though the books are all standalone and have their own happy endings. The first six books are out.** 
 
 (link to book)
 
