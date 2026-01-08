@@ -3,7 +3,7 @@ author: Star Foster
 title: The Jewel Realm
 description: Description of The Jewel Realm by Amanda Hayes
 date: 2025-12-03T23:07:30.830Z
-thumbnail: /img_2579.png
+thumbnail: /img_6017.png
 ---
 **T﻿he Amethyst Star:**
 
