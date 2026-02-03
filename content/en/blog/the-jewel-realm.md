@@ -20,4 +20,4 @@ This is the first book in the Jewel Realm
 
 (link to book)
 
-https://www.amazon.com/Amethyst-Star-Book-Jewel-Realm-ebook/dp/B0GFXXWNWC/ref=sr_1_1?crid=LXIH2JQUU5U1&dib=eyJ2IjoiMSJ9.i2PQ1LhXDeyMZ0gU3SkhaBaD_Vs4R8oxK-h4MY7EebY.z52__YwruJZJTj5pFg3TMMVmdadDg9REMjnMejqMq9I&dib_tag=se&keywords=the+amethyst+star+amanda&qid=1769028955&sprefix=the+amethyst+star+amanda%2Caps%2C231&sr=8-1
+https://www.amazon.com/Amethyst-Star-Book-Jewel-Realm-ebook/dp/B0GFXXWNWC/ref=sr_1_1?cr
