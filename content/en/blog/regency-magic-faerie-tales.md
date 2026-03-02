@@ -3,7 +3,7 @@ author: Star Foster
 title: Regency Magic Faerie Tales
 description: Description of Regency Magic Faerie Tales by Eliza Prokopovits
 date: 2024-10-01T19:04:14.377Z
-thumbnail: /her-fae-regency.png
+thumbnail: /screenshot_2-3-2026_13754_www.canva.com.jpeg
 ---
 Her Fae Secret:
 
