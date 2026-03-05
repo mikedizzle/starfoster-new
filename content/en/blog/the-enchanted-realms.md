@@ -3,9 +3,11 @@ author: Star Foster
 title: "The Enchanted Realms "
 description: Description of The Enchanted Realms by Michelle Miles
 date: 2025-05-28T15:47:59.272Z
-thumbnail: /the-enchanted-realms-.png
+thumbnail: /screenshot_4-3-2026_21241_www.canva.com.jpeg
 ---
-**This series is not Kindle Unlimited** 
+**This series is not Kindle Unlimited** \
+\
+**O﻿nce Upon an Ancient Curse, Once Upon a Sliver Strand and Once Upon a Woven Wish are stand alone novellas that can be read at anytime.** 
 
 *Once Upon A Midnight Clear:*
 
