@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "The Land of Stories "
 description: Description of The Land of Stories by Chris Colfer
 date: 2023-04-23T20:55:30.384Z
-thumbnail: /the-land-of-stories-.png
+thumbnail: /img_6416.png
 ---
 T﻿he Wishing Spell:
 
