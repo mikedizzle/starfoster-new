@@ -1,9 +1,9 @@
 ---
 author: Star Foster
-title: The Jewel Realm
+title: The Jewel Realm (KU)
 description: Description of The Jewel Realm by Amanda Hayes
 date: 2025-12-03T23:07:30.830Z
-thumbnail: /img_2579.png
+thumbnail: /img_6017.png
 ---
 **T﻿he Amethyst Star:**
 
@@ -18,10 +18,6 @@ A tale of elemental magic, dragon bonds, and the cost of being truly seen.\
 \
 This is the first book in the Jewel Realm
 
-**N﻿ote this series is not yet completed though the books are all standalone and have their own happy endings. The first three books are out.** 
-
-
-
 (link to book)
 
- https://app.thebookpatch.com/BookStore/the-amethyst-star/7c69f382-5d54-45c7-a6f1-95b5a61c8267
+https://www.amazon.com/Amethyst-Star-Book-Jewel-Realm-ebook/dp/B0GFXXWNWC/ref=sr_1_1?cr
