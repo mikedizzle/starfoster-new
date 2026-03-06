@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "Vega Jane Series "
 description: Description of the Vega Jane series by David Baldacci
 date: 2022-10-29T05:28:46.234Z
-thumbnail: /untitled-design-1-.png
+thumbnail: /img_2881.png
 ---
 T﻿he Finisher:
 
@@ -13,4 +13,5 @@ Until one girl, Vega Jane, discovers a map that suggests a mysterious world beyo
 \
 But she will be forced to fight for her freedom. And unravelling the truth may cost Vega her life
 
-l﻿ink to the book: [The Finisher](https://www.goodreads.com/book/show/18282060-the-finisher)
+l﻿ink to the book: \
+https://www.amazon.com/Finisher-Vega-Jane-Book/dp/0545652200/ref=tmm_hrd_swatch_0[](https://www.goodreads.com/book/show/18282060-the-finisher)
