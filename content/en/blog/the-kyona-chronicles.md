@@ -15,6 +15,7 @@ Still hunted, they set out for Kyona’s infamous mountains, assisted by Elnora,
 \
 But the mountains hold more than just magic—they hold a secret that none of the friends are prepared for. And Calinnae’s response, as much as Jonan’s, will decide whether the kingdom stands or falls.
 
-link to the book: [](https://www.goodreads.com/book/show/53501213-heir-of-the-curse?from_search=true&from_srp=true&qid=4hJUpRVqbX&rank=1)https://www.amazon.com/dp/B08625C
+link to the book:\
+https://www.amazon.com/dp/B08625CJHX?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
 
 link to the website: [Kyona | Deborah Grace White](https://www.deborahgracewhite.com/kyona/)
