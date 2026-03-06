@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Legends of Neverland
+title: Legends of Neverland (KU)
 description: Description of Legends of Neverland by Mary Mecham
 date: 2026-03-06T23:16:16.984Z
 thumbnail: /img_3746.png
