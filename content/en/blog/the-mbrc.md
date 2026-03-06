@@ -3,7 +3,7 @@ author: Star Foster
 title: The MBRC (KU)
 description: Description of The MBRC by K.M. Shea
 date: 2022-08-11T16:49:29.275Z
-thumbnail: /the-mbrc.jpg
+thumbnail: /img_7704.png
 ---
 Vampires Drink Tomato Juice: 
 
@@ -13,4 +13,5 @@ Until MBRC officials can figure out how to undo the damage, Morgan is given a pa
 \
 But when its finally time to leave, will Morgan be able to give up her new friends and return to the mundane?
 
-[(The Magical Beings' Rehabilitation Center, #1)](https://www.goodreads.com/book/show/36465194-vampires-drink-tomato-juice) (link to book)
+link to book:\
+https://www.amazon.com/dp/B074CJQ7R7?binding=kindle_edition&qid=1772841257&sr=1-1&ref=dbs_dp_rwt_sb_pc_tkin
