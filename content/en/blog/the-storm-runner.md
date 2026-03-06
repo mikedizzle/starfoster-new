@@ -1,9 +1,9 @@
 ---
 author: Star Foster
-title: The Storm Runner (KU)
+title: "The Storm Runner "
 description: Description of The Storm Runner by Rick Riordan
 date: 2022-09-01T20:32:04.024Z
-thumbnail: /storm-runner.jpg
+thumbnail: /img_7009.png
 ---
 The Storm Runner:
 
@@ -13,6 +13,6 @@ A new girl at school, Brooks, informs him that he's destined to release an evil 
 \
 When Zane decides to save his dog no matter the cost, he is thrust into an adventure full of surprising discoveries, dangerous secrets, and an all-out war between the gods, one of whom happens to be his father. To survive, Zane will have to become the Storm Runner. But how can he run when he can't even walk well without a cane?
 
+link to book:
 
-
-[The Storm Runner](https://www.goodreads.com/book/show/34966353-the-storm-runner) (link to book)
+https://www.amazon.com/dp/B07PC3P9FF?binding=hardcover&ref=dbs_dp_rwt_sb_pc_thcv
