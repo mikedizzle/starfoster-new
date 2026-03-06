@@ -3,7 +3,7 @@ author: Star Foster
 title: Seasons of Music and Magic (KU)
 description: Description of Seasons of Music and Magic by Sarah Beran
 date: 2025-03-09T22:06:55.757Z
-thumbnail: /seasons-of-the-fae-.png
+thumbnail: /img_2068.png
 ---
 **Spring of Sparkling Song:**
 
