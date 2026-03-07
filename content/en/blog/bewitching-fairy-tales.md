@@ -17,6 +17,8 @@ Sandor’s worlds collided when Aurelia was brought before King Eadric. Is he tr
 \
 Nothing makes sense anymore, but Sandor’s determined to figure it out and save Aurelia from the king. The more he learns, the more he wonders, is the king the real threat, or is there something more dangerous lurking in the shadows?
 
-[Search results for "bewitching fairy tales celeste baxendell" (showing 1-10 of 10 books) (goodreads.com)](https://www.goodreads.com/search?utf8=%E2%9C%93&q=bewitching+fairy+tales+celeste+baxendell&search_type=books)(link to book)
-
 Note Of Chivalry and Revenge is a prequel set in the same world and Shoes of Red is a novella that takes place before all of the books but should be read before Songs of Stone.
+
+l﻿ink to book:
+
+https://www.amazon.com/dp/B0CM6K8286?binding=kindle_edition&qid=1772844009&sr=8-1&ref=dbs_dp_rwt_sb_pc_tkin
