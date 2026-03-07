@@ -3,7 +3,7 @@ author: "Star Foster "
 title: "The Ascendence "
 description: "Description of The Ascendence by Jennifer A. Nelson "
 date: 2022-08-02T22:34:32.897Z
-thumbnail: /the-accendence-updated-2-.png
+thumbnail: /img_7260.png
 ---
 The False Prince:
 
@@ -12,4 +12,6 @@ In a discontent kingdom, civil war is brewing. To unify the divided people, Conn
 As Sage moves from a rundown orphanage to Conner's sumptuous palace, layer upon layer of treachery and deceit unfold, until finally, a truth is revealed that, in the end, may very well prove more dangerous than all of the lies taken together. 
 
 [](https://www.goodreads.com/book/show/12432220-the-false-prince#)\
-[The False Prince](https://www.goodreads.com/book/show/12432220-the-false-prince) (link to the book)[](https://www.goodreads.com/book/show/12432220-the-false-prince)
+link to the book:
+
+https://www.amazon.com/dp/B074CH945T?binding=kindle_edition&qid=1772841566&sr=8-5&ref=dbs_dp_rwt_sb_pc_tkin
