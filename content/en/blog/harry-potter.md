@@ -1,9 +1,9 @@
 ---
 author: "Star Foster "
-title: "Harry Potter "
+title: Harry Potter (KU)
 description: "Description of Harry Potter by J.K. Rowling "
 date: 2022-08-02T18:59:46.388Z
-thumbnail: /harry-potter.webp
+thumbnail: /img_9552.png
 ---
 (I know this is a classic, but it is truly a good series)
 
@@ -15,5 +15,6 @@ After a lifetime of bottling up his magical powers, Harry finally feels like a n
 \
 Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined
 
-| [Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone?from_search=true&from_srp=true&qid=jpgJG6ridw&rank=1) (link to book) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  link to book:\
+https://www.amazon.com/dp/B074BYZBPD?binding=kindle_edition&qid=1772842667&sr=8-1&ref=dbs_dp_rwt_sb_pc_tkin |
+| --------------------------------------------------------------------------------------------------------------------------- |
