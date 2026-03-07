@@ -3,7 +3,7 @@ author: Star Foster
 title: The Dragon of 23rd Street (KU)
 description: Description of The Dragon of 23rd Street by Haley Ryan
 date: 2022-08-23T15:44:05.339Z
-thumbnail: /star-foster.png
+thumbnail: /img_6924.png
 ---
 Dragon Chained:
 
@@ -16,4 +16,6 @@ But it turns out my aunt had secrets, and a lot of those secrets seem to involve
 Draven is a half-fae assassin who’s as gorgeous as he is irritating, and his motives are less than clear. He might be willing to help me—for a price—but is it a price I’m willing to pay?\
 And if I accept his help, can I trust an assassin to keep the biggest secret of them all?
 
-[Dragon Chained](https://www.goodreads.com/book/show/56596882-dragon-chained) (link to book)
+link to book:
+
+https://www.amazon.com/dp/B0C1N186VB?binding=kindle_edition&qid=1772843535&sr=8-1&ref=dbs_dp_rwt_sb_pc_tkin
