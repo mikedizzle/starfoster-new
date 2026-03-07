@@ -16,4 +16,6 @@ With time running out, not just for the castle’s inhabitants, but for the king
 
 Could she?
 
-[Kingdom of Beauty: A Retelling of Beauty and the Beast](https://www.goodreads.com/book/show/57427543-kingdom-of-beauty) (link to book)
+l﻿ink to book:
+
+https://www.amazon.com/dp/B08Z349YZ3?binding=kindle_edition&qid=1772844743&sr=8-3&ref=dbs_dp_rwt_sb_pc_tkin
