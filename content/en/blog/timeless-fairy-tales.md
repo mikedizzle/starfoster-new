@@ -3,7 +3,7 @@ author: "Star Foster "
 title: Timeless Fairy Tales (KU)
 description: "Description of Timeless Fairy Tales by K.M. Shea "
 date: 2022-08-03T16:05:22.901Z
-thumbnail: /timeless-fairy-tales-updated-.png
+thumbnail: /img_3266.png
 ---
 Beauty and the Beast:
 
@@ -14,8 +14,6 @@ Prince Severin—the commanding general and staunch supporter of his brother the
 Unfortunately, the pair can’t seem to avoid each other thanks to the meddling of the chateau’s cursed servants. Eventually Elle’s playful manners and Severin’s hidden gentleness draw the pair together. But not all love stories can end that easily. After all, Elle is not what she seems, and Severin’s life is placed in danger when hostilities flare between his brother and the monarchs of a neighboring country. 
 
 When Elle risks everything to save Severin, will he be able to forgive her for her lies
-
-N﻿ote: The Princess and the Pea is a prequal novella that is set in the same world.
 
 l﻿ink to book:
 
