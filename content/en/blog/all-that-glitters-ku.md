@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: All That Glitters (KU)
+title: All That Glitters (Kindle +)
 description: Description of All That Glitters a multi-author series
 date: 2025-07-17T04:31:14.684Z
 thumbnail: /screenshot_16-7-2025_21315_www.canva.com.jpeg
@@ -25,8 +25,5 @@ As the days pass, their time is running out. Will they break the curse before it
 
 Tainted Beauty is a reimagining of “Beauty and the Beast” intertwined with “King Midas.” Fly away with a dragon shifter in this thrilling and swoony fairytale romance, part of the All That Glitters series—a collection of twelve books brimming with Tales of Treasure and True Love. Each book is written by a different author and can be enjoyed in any order, so pick a new favorite and discover that not all that glitters is gold.
 
-
-
-
-
- (link to book). https://www.amazon.com/Tainted-Beauty-Alesha-Adamson/dp/B0F7SQRR2S
+ (link to book). \
+https://www.amazon.com/dp/B0F19B7GK8?binding=paperback&ref=dbs_dp_rwt_sb_pc_tpbk
