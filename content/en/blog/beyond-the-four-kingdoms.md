@@ -1,11 +1,11 @@
 ---
 author: "Star Foster "
-title: Beyond the Four Kingdoms (KU)
+title: Beyond the Four Kingdoms (Kindle +)
 description: "Description of Beyond the Four Kingdoms by K.M. Shea "
 date: 2022-08-02T18:36:46.837Z
 thumbnail: /img_9780.png
 ---
-(continues the Four kingdoms series with some of the same characters)
+(continues the Four kingdoms series with some of the same characters but can be read separately)
 
 A Dance of Sliver and Shadow:
 
@@ -15,4 +15,5 @@ But Lily and her twin have a secret advantage. And Lily grows increasingly deter
 
 In this reimagining of the classic fairy tale, The Twelve Dancing Princesses, there's a lot more at stake than worn out dancing slippers.
 
-[A Dance of Silver and Shadow: A Retelling of the Twelve Dancing Princesses](https://www.goodreads.com/book/show/36186930-a-dance-of-silver-and-shadow) (link to the book)
+https://www.amazon.com/gp/product/B077LQ2229/ref=x_gr_bb_series?caller=Goodreads&tag=x_gr_bb_series-20&binding=kindle_edition\
+ (link to the book)
