@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: Dragon Ever After (KU)
+title: "Dragon Ever After "
 description: "Description of Dragon Ever After Amberlyn Holland "
 date: 2022-08-05T03:56:51.524Z
 thumbnail: /img_9403.png
