@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: Tempting Theives (KU)
+title: Tempting Theives (Kindle +)
 description: Desription of Tempting Theives a multi-author series
 date: 2025-07-17T05:13:53.212Z
 thumbnail: /screenshot_16-7-2025_2293_www.canva.com.jpeg
