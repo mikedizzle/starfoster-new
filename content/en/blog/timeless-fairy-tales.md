@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: Timeless Fairy Tales (KU)
+title: Timeless Fairy Tales (Kindle +)
 description: "Description of Timeless Fairy Tales by K.M. Shea "
 date: 2022-08-03T16:05:22.901Z
 thumbnail: /img_3266.png
