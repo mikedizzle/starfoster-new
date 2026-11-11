@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Sacrificed Hearts (KU)
+title: Sacrificed Hearts (Kindle +)
 description: Description of Sacrificed Hearts a multi-author series
 date: 2025-07-17T05:10:15.800Z
 thumbnail: /screenshot_16-7-2025_22843_www.canva.com.jpeg
@@ -21,4 +21,4 @@ Mountain of Dragons and Sacrifice is book 1 in the Sacrificed Hearts multi-au
 
 (﻿link to book)
 
-https://www.amazon.com/Mountain-Dragons-Sacrifice-Sacrificed-Hearts/dp/194344255X.
+https://www.amazon.com/dp/B0CLKXMF9P?lv=shuf&channelId=520&plpRedirect=mhFallback
