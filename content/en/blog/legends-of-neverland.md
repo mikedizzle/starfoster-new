@@ -1,9 +1,9 @@
 ---
 author: Star Foster
-title: Legends of Neverland (KU)
+title: Legends of Neverland (Kindle +)
 description: Description of Legends of Neverland by Mary Mecham
 date: 2026-03-06T23:16:16.984Z
-thumbnail: /img_3746.png
+thumbnail: /img_1197.png
 ---
 ***B﻿ecoming Hook:***\
 \
@@ -35,5 +35,9 @@ From the readers:\
 "This book as well as Mary's others I have read have not had any language and are sweet romances with some kissing but nothing explicit. Also, no hidden agendas. So great for teens and adults. I highly recommend this book to everyone!"\
 \
 "I am wholeheartedly recommending this book for children ages 10+ as well as for anyone who craves more depth to the Peter Pan story."\
+ (﻿link to book)
+
+https://www.amazon.com/dp/B0C2TPTV76?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
+
 \
-https://www.amazon.com/gp/product/B0BVD3CM8F?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks   (﻿link to book)
+T﻿raining Shadows is to be released on March 12 but the books stand on their own. There is no major cliffhanger at the end of  Seeking Revenge.
