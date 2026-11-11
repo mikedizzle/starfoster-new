@@ -7,8 +7,6 @@ thumbnail: /the-christmas-chronicles-.png
 ---
 T﻿he Hidden Gift by Annette K. Larsen:
 
-
-
 #### What if Father Christmas’s quest to help the downtrodden…started with his love for one girl?
 
 In the quaint village of Tethurn, Annabelle has always been the steadfast pillar of her family, unafraid of hard work and sacrifice. But when her father falls gravely ill, her family's already tenuous situation becomes dire. Annabelle knows she cannot afford to lose her position as a maid, but a spiteful butler threatens her livelihood. Amidst the chaos, she finds an unexpected ally in Nicolai Closs, a gentleman whose kindness offers her a glimmer of hope and a cherished friendship.
@@ -20,6 +18,6 @@ The Hidden Gift reimagines the origin of Father Christmas and St. Nick, where r
 \
 This book is a part of The Christmas Chronicles, a collection of festive novellas filled with clean romance, chilly weather, and cozy adventure.
 
-l﻿ink to book ([Amazon.com: The Hidden Gift: A Father Christmas Origin Story eBook : Larsen, Annette K.: Kindle Store](https://www.amazon.com/gp/product/B0D5P47WHJ?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+l﻿ink to book 
 
-<!--EndFragment-->
+https://www.amazon.com/dp/B0DFY417Z5?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
