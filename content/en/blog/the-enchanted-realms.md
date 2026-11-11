@@ -3,7 +3,7 @@ author: Star Foster
 title: "The Enchanted Realms "
 description: Description of The Enchanted Realms by Michelle Miles
 date: 2025-05-28T15:47:59.272Z
-thumbnail: /screenshot_4-3-2026_21241_www.canva.com.jpeg
+thumbnail: /img_1739.png
 ---
 \
 **O﻿nce Upon an Ancient Curse, Once Upon a Sliver Strand and Once Upon a Woven Wish are stand alone novellas that can be read at anytime.** 
@@ -21,6 +21,8 @@ Lost in the magic of the evening while dancing with a handsome stranger, she is 
 Her arrival garners the attention of a dangerous queen determined to have the slippers for herself. She’ll stop at nothing to get them by issuing an ultimatum—bring her the slippers or she’ll destroy the enchanted realm and the Spirit of Christmas itself.\
 \
 With time running out, Ella embarks on a perilous journey through the mystical realm on a quest to save it. She must embrace her destiny and discover the power of love and magic. But will it be enough to overcome the darkness that threatens to consume them all?
+
+**O﻿nce Upon a Winterspell will come out December 2 2026.**
 
 l﻿ink to book
 
