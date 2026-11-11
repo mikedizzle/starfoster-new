@@ -5,7 +5,6 @@ description: Description of The Enchanted Realms by Michelle Miles
 date: 2025-05-28T15:47:59.272Z
 thumbnail: /screenshot_4-3-2026_21241_www.canva.com.jpeg
 ---
-**This series is not Kindle Unlimited** \
 \
 **O﻿nce Upon an Ancient Curse, Once Upon a Sliver Strand and Once Upon a Woven Wish are stand alone novellas that can be read at anytime.** 
 
@@ -23,4 +22,6 @@ Her arrival garners the attention of a dangerous queen determined to have the sl
 \
 With time running out, Ella embarks on a perilous journey through the mystical realm on a quest to save it. She must embrace her destiny and discover the power of love and magic. But will it be enough to overcome the darkness that threatens to consume them all?
 
-[Amazon.com: Once Upon a Midnight Clear: A Cinderella Retelling (Enchanted Realms Book 1) eBook : Miles, Michelle: Kindle Store](https://us.amazon.com/gp/product/B0CKTZC4C1?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+l﻿ink to book
+
+https://www.amazon.com/dp/B0CKVD8HQ3?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
