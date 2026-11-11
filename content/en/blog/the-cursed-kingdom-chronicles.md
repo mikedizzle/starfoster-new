@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: The Cursed Kingdom Chronicles (KU)
+title: The Cursed Kingdom Chronicles (Kindle +)
 description: Description of The Cursed Kingdom Chronicles by Kayla Eshbaugh
 date: 2025-04-11T20:23:15.902Z
 thumbnail: /cursed-kingdom-chronicles-.png
@@ -15,8 +15,6 @@ Prince Liam desperately needs to find the truest princess in the lands or else h
 
 True princess is the first book in The Cursed Kingdom Chronicles, a series of clean stand-alone but connected, fairytale retellings. If you enjoy clean romance, adventure, and witty banter, The Cursed Kingdom Chronicles is for you!
 
-l﻿ink to book ([Amazon.com: True Princess: A Princess and The Pea Retelling (The Cursed Kingdom Chronicles Book 1) eBook : Eshbaugh, Kayla: Kindle Store](https://www.amazon.com/gp/product/B09ZDXDN2N?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+l﻿ink to book 
 
-
-
-**Moonlit Wings comes out September 9, 2025**
+https://www.amazon.com/dp/B0BJ11WXK2?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
