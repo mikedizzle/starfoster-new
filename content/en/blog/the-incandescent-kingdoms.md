@@ -3,7 +3,7 @@ author: Star Foster
 title: The Incandescent Kingdoms (KU)
 description: Description of The Incandescent Kingdoms by Leialoha Humpherys
 date: 2025-03-12T16:22:00.413Z
-thumbnail: /the-icandecent-kingdoms-.png
+thumbnail: /img_1062.png
 ---
 **Married at Sunrise:**
 
@@ -15,4 +15,8 @@ Heilani always knew an arranged marriage was in her future, so rejecting suitors
 
 “Married at Sunrise” is a retelling of “King Thrushbeard” and is the first book in the Incandescent Kingdoms series. Each book can be read in order or as a standalone. This enemies to lovers, arranged marriage novel is a clean and swoony romance, perfect for young adult and adult readers!
 
-l﻿ink to book ([Amazon.com: Married at Sunrise: A King Thrushbeard Retelling (The Incandescent Kingdoms Book 1) eBook : Humpherys, Leialoha: Kindle Store](https://www.amazon.com/gp/product/B0C2WS58X7?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+K﻿idnapped at Dusk is a prequal novella.
+
+l﻿ink to book 
+
+https://www.amazon.com/dp/B0C3FFDNY3?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
