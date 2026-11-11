@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Tethered Hearts (KU)
+title: Tethered Hearts (Kindle +)
 description: Description of Tethered Hearts a multi-author series
 date: 2025-04-25T16:00:55.782Z
 thumbnail: /teathered-hearts.png
@@ -21,4 +21,6 @@ Ties of Legacy is book one in Tethered Hearts, a multi-author series of no spice
 \
 This standalone story is set in the world of Melanie Cellier’s Kingdoms of Legacy series.
 
-**l﻿ink to book:** [Amazon.com: Ties of Legacy eBook : Cellier, Melanie: Kindle Store](https://www.amazon.com/Ties-Legacy-Melanie-Cellier-ebook/dp/B0DPQ65SPW)
+**l﻿ink to book:** [](https://www.amazon.com/Ties-Legacy-Melanie-Cellier-ebook/dp/B0DPQ65SPW)
+
+https://www.amazon.com/dp/B0DPR8QKVM?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
