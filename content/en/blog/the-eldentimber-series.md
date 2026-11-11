@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: The Eldentimber Series (KU)
+title: The Eldentimber Series (Kindle +)
 description: Description of The Eldentimber Series by Shari L. Tapscott
 date: 2025-03-11T20:22:46.980Z
 thumbnail: /eldentimber-cornicles-.png
@@ -19,4 +19,6 @@ A man who calls her like a moth to a flame.\
 \
 Pippa knows she plays a dangerous game, but when the stakes are this high, she's not sure if she can afford to walk away...
 
-l﻿ink to book ([Amazon.com: Pippa of Lauramore (The Eldentimber Series Book 1) eBook : Tapscott, Shari L.: Kindle Store](https://www.amazon.com/gp/product/B00UZDNRXE?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+l﻿ink to book 
+
+https://www.amazon.com/dp/B07F7RRJH9?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
