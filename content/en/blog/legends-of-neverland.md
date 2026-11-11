@@ -34,7 +34,9 @@ From the readers:\
 \
 "This book as well as Mary's others I have read have not had any language and are sweet romances with some kissing but nothing explicit. Also, no hidden agendas. So great for teens and adults. I highly recommend this book to everyone!"\
 \
-"I am wholeheartedly recommending this book for children ages 10+ as well as for anyone who craves more depth to the Peter Pan story."\
+"I am wholeheartedly recommending this book for children ages 10+ as well as for anyone who craves more depth to the Peter Pan story."
+
+\
  (﻿link to book)
 
 https://www.amazon.com/dp/B0C2TPTV76?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
