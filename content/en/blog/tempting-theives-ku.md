@@ -27,6 +27,8 @@ May the best thief survive.\
 \
 To Sway a rogue is the first book in Tempting Thieves, a multi-author romantasy collection featuring cunning thieves who outsmart relentless hunters, steal forbidden treasures, and find love along the way. With slow-burn longing, forced proximity, and secret identities every story delivers an irresistible fantasy escape. Perfect for fans of forbidden romance, morally gray heroes, daring rogues, and clean yet sizzling chemistry. Each book in the collection is a standalone. Read in any order.
 
+A﻿ll books in series are kindle + except To Sway A Soul
 
+link to book
 
-https://www.amazon.com/gp/product/B0DZTXRCWK?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks (link to book)
+https://www.amazon.com/dp/B0F12RLGK1?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
