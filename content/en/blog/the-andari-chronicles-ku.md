@@ -1,6 +1,6 @@
 ---
 author: "Star Foster "
-title: The Andari Chronicles (KU)
+title: "The Andari Chronicles "
 description: Desription of The Andari Chronicles by Kenley Davidson
 date: 2025-07-17T22:07:01.744Z
 thumbnail: /screenshot_17-7-2025_15726_www.canva.com.jpeg
@@ -15,4 +15,6 @@ One night, one beautiful gown, one dance… and one message to be delivered to a
 
 Especially when she can slip away into the night after the dance, leaving no clue as to her identity. But before she can escape the ball, Trystan makes a shocking discovery that leaves all her hopes in ruins. She will be forced to confront two very different princes—and choose whether to betray her kingdom… or her heart. If she’s lucky, maybe she’ll even survive to tell about it later.
 
-(﻿link to book) [Traitors Masque](https://www.amazon.com/dp/B018A5S6F2/ref=mes-dp)
+link to book[](https://www.amazon.com/dp/B018A5S6F2/ref=mes-dp)
+
+https://www.amazon.com/dp/B074CHRZRQ?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
