@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Once Upon A Prince (KU)
+title: Once Upon A Prince (Kindle +)
 description: Description of Once Upon A Prince a multi-author series
 date: 2025-03-09T20:29:47.991Z
 thumbnail: /once-upon-a-prince.png
@@ -21,4 +21,6 @@ The Unlucky Prince, a retelling of The Frog Prince, is book 1 of Once Upon A Pr
 
 It’s set in the world of The Kingdom Tales, a completed series of six clean fairy tale retellings by Deborah Grace White. The Unlucky Prince takes place four years after the end of the series but can be enjoyed without any prior reading.
 
-l﻿ink to book ([Amazon.com: The Unlucky Prince: A Frog Prince Retelling eBook : White, Deborah Grace: Kindle Store](https://www.amazon.com/gp/product/B0C45DV77D?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+l﻿ink to book
+
+https://www.amazon.com/dp/B0C5J1KD5M?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
