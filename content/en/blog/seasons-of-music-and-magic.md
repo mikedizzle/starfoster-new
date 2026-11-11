@@ -1,6 +1,6 @@
 ---
 author: Star Foster
-title: Seasons of Music and Magic (KU)
+title: Seasons of Music and Magic (Kindle +)
 description: Description of Seasons of Music and Magic by Sarah Beran
 date: 2025-03-09T22:06:55.757Z
 thumbnail: /img_2068.png
@@ -17,4 +17,6 @@ With the aid of his flute, a bird-brained companion, and a little bit of magic, 
 \
 **Seasons of Music and Magic is a series of four retellings of fairy tales found in classic operas and ballets, each featuring a unique cast of endearing characters, sweet romance, humor, and a happily-ever-after. The stories stand alone and can be read in any order, so experience the music and magic of Faerie at any time.**
 
-l﻿ink to book ([Amazon.com: Spring of Sparkling Song: A Magic Flute Retelling (Seasons of Music and Magic) eBook : Beran, Sarah: Kindle Store](https://www.amazon.com/gp/product/B0BZQSQ8GJ?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks)
+l﻿ink to book
+
+https://www.amazon.co.uk/dp/B0C2H34GT8?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin
