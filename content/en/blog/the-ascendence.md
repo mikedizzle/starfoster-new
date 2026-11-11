@@ -11,6 +11,8 @@ In a discontent kingdom, civil war is brewing. To unify the divided people, Conn
 \
 As Sage moves from a rundown orphanage to Conner's sumptuous palace, layer upon layer of treachery and deceit unfold, until finally, a truth is revealed that, in the end, may very well prove more dangerous than all of the lies taken together. 
 
+T﻿he first book is Kindle + but the rest are not. 
+
 [](https://www.goodreads.com/book/show/12432220-the-false-prince#)\
 link to the book:
 
